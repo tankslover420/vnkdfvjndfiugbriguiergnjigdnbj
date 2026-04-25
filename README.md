@@ -1,1 +1,1 @@
-discontinued ( i might come back when the time comes, this will be open sourced soon! )
+open sourced im too bored to continue
